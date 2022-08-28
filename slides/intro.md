@@ -1,4 +1,4 @@
-SITIC DL Topic Forum - Digital Sustainability
+[SITIC DL Topic Forum - Digital Sustainability](https://sitic.org/digital-sustainability/)
 
 ## Nachhaltige Digitalisierung [&|](https://en.wikipedia.org/wiki/Short-circuit_evaluation) Digitale Nachhaltigkeit?
 
